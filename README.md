@@ -40,3 +40,4 @@ export const CONTRACT_ADDRESSES = {
 - **Chain ID**: 31337
 - **Currency Symbol**: ETH
 --
+---
