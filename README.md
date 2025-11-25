@@ -39,3 +39,4 @@ export const CONTRACT_ADDRESSES = {
 - **New RPC URL**: http://127.0.0.1:8545
 - **Chain ID**: 31337
 - **Currency Symbol**: ETH
+--
